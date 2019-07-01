@@ -5,6 +5,7 @@ These codes are for Bipartite network (Bank-firm network).
 It estimates the ERG parameter $theta$'s for (1)  Bernoulli ERG model and (2)  Two star ERG model.
 
 Command to compile and execute: 
+
  (1) Bernouli model: 
  gfortran -C -o Bernoulli BN_MCMC_Bernoulli.f 
  
