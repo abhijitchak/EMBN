@@ -16,7 +16,7 @@ Command to compile and execute:
  
  ./twostar
 
+# Publication:
 
-Publication: 
 
 Exponential random graph models for the Japanese bipartite network of banks and firms, A Chakraborty, H Krichene, H Inoue, Y Fujiwara Journal of Computational Social Science 2, 3-13,  (2019)
